@@ -33,6 +33,12 @@
 
 
 
+############################################
 
+> (IO.println "Hello, world!")
+
+> (IO.println "こんにちは\nAtCoder")
+
+> (IO.println "いつも2525\nAtCoderくん")
 
 
