@@ -37,9 +37,9 @@
 
 ### Textのように固定した答えで正解の場合、、、
 
-> (IO.println "Hello, world!")
+> (IO.println "Hello, world!") A
 
-> (IO.println "こんにちは\nAtCoder")
+> (IO.println "こんにちは\nAtCoder") EX.1
 
 > (IO.println "いつも2525\nAtCoderくん")
 
