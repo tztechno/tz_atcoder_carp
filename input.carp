@@ -1,0 +1,5 @@
+(defn main []
+  (let [input (read-line)]
+    (print input)))
+
+(main)
