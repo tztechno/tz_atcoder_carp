@@ -41,7 +41,7 @@
 (def greeting "Hello, world!\n")
 (stdout greeting)
 
-; 標準入力からの入力を受け取って出力
+; 標準入力からの入力を受け取って出力[error]
 (def input (stdin))
 (stdout input)
 
