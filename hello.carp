@@ -1,2 +1,5 @@
 
-> (IO.println "Hello, world!")
+(IO.println "Hello, world!")
+
+
+(IO.println "こんにちは\nAtCoder")
