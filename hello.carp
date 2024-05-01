@@ -1,5 +1,6 @@
 
-(IO.println "Hello, world!")
+>(IO.println "Hello, world!")
 
 
+[ > はあっても無くても良い? ]
 (IO.println "こんにちは\nAtCoder")
